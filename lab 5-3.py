@@ -1,7 +1,7 @@
 def score(w,mt,ft):
     
     n = w + mt +ft
-    
+
     return n
 
 def compare(n):
